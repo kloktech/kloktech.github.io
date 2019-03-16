@@ -18,4 +18,4 @@ People in Klok Tech started out as system administrators, network administrators
 Our clients are in wide range of fields such predictive analytics, AI, ERP Management, realtime messaging platform and etc.  Although the applications are different, infrastructure to run them as well as skills to maintain/monitor are the same.  Hence why we can deliver high value to organization because of the specialization and ability to manage multiple clients at once.
 
 # Reach us
-If you are interested in our service, please reach us at [info@kloktech.com](info@kloktech.com)
+If you are interested in our service, please reach us at [mailto](mailto:info@kloktech.com)
